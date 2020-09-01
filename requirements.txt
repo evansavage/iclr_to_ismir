@@ -1,6 +1,0 @@
-flask
-frozen-flask
-tqdm
-PyYAML
-dateparser
-icalendar

@@ -1,7 +1,0 @@
-numpy
-scipy
-sentencepiece
-sacremoses
-cvxpy
-cvxopt
-requests
